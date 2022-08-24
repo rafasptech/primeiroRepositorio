@@ -5,3 +5,11 @@
     color: red;
     background-color:yellow;
 }
+.container {
+    width: 80;
+}
+.title {
+    color:red;
+}
+
+/* "ctrl" + ";" */
